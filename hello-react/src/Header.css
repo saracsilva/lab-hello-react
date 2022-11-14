@@ -1,0 +1,35 @@
+nav {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+img {
+  padding: 20px 40px;
+}
+.hello {
+  flex-direction: column;
+  position: relative;
+  margin-bottom: 80px;
+  display: flex;
+  justify-content: flex-start;
+  text-align: left;
+  margin-right: 50vw;
+  width: 40%;
+}
+h1 {
+  font-size: 120px;
+}
+p {
+  font-size: 20px;
+}
+button {
+  background-color: #fff;
+  padding: 20px;
+  width: 7vw;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  align-items: center;
+  font-weight: 600;
+}
